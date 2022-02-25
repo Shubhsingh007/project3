@@ -1,2 +1,2 @@
 # project 
-Snake game
+Snake games
